@@ -3,11 +3,21 @@ page-sobre {
     ion-card-title.card-title.card-title-ios {
         color: darkviolet;
         font-weight: bold;
+        text-align: center;
     }
 
 p.feed_date {
     color: black;
     font-weight: bold;
+    text-align: center;
+  
+}
+p.image_crato img {width: 250px;}
+
+p.image_mapa {
+    position: sticky;
+    width: 200px;
+    left: 18%;
 }
 
 }
